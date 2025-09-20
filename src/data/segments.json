@@ -27,7 +27,7 @@
       "category": "Performing Arts",
       "date": "September 5, 2025",
       "time": "2:00 PM - 4:00 PM",
-      "image": "/src/assets/EventBG.jpeg"
+      "image": "/EventBG.jpeg"
     },
     {
       "id": 2,
@@ -56,7 +56,7 @@
       "category": "Performing Arts",
       "date": "September 5, 2025",
       "time": "10:00 AM - 1:00 PM",
-      "image": "/src/assets/EventBG.jpeg"
+      "image": "/EventBG.jpeg"
     },
     {
       "id": 3,
@@ -85,7 +85,7 @@
       "category": "Performing Arts",
       "date": "September 5, 2025",
       "time": "4:00 PM - 6:30 PM",
-      "image": "/src/assets/EventBG.jpeg"
+      "image": "/EventBG.jpeg"
     },
     {
       "id": 4,
@@ -114,7 +114,7 @@
       "category": "Performing Arts",
       "date": "September 5, 2025",
       "time": "7:00 PM - 11:00 PM",
-      "image": "/src/assets/EventBG.jpeg"
+      "image": "/EventBG.jpeg"
     },
     {
       "id": 5,
@@ -143,7 +143,7 @@
       "category": "Visual Arts",
       "date": "September 5, 2025",
       "time": "9:00 AM - 6:00 PM",
-      "image": "/src/assets/EventBG.jpeg"
+      "image": "/EventBG.jpeg"
     },
     {
       "id": 6,
@@ -172,7 +172,7 @@
       "category": "Visual Arts",
       "date": "September 5, 2025",
       "time": "9:00 AM - 6:00 PM",
-      "image": "/src/assets/EventBG.jpeg"
+      "image": "/EventBG.jpeg"
     },
     {
       "id": 7,
@@ -201,7 +201,7 @@
       "category": "Literary Arts",
       "date": "September 5, 2025",
       "time": "11:00 AM - 1:00 PM",
-      "image": "/src/assets/EventBG.jpeg"
+      "image": "/EventBG.jpeg"
     },
     {
       "id": 8,
@@ -230,7 +230,7 @@
       "category": "Academic",
       "date": "September 5, 2025",
       "time": "2:00 PM - 3:30 PM",
-      "image": "/src/assets/EventBG.jpeg"
+      "image": "/EventBG.jpeg"
     },
     {
       "id": 9,
@@ -259,7 +259,7 @@
       "category": "Academic",
       "date": "September 5, 2025",
       "time": "4:00 PM - 7:00 PM",
-      "image": "/src/assets/EventBG.jpeg"
+      "image": "/EventBG.jpeg"
     },
     {
       "id": 10,
@@ -288,7 +288,7 @@
       "category": "Digital Arts",
       "date": "September 5, 2025",
       "time": "9:00 AM - 3:00 PM",
-      "image": "/src/assets/EventBG.jpeg"
+      "image": "/EventBG.jpeg"
     },
     {
       "id": 11,
@@ -317,7 +317,7 @@
       "category": "Digital Arts",
       "date": "September 5, 2025",
       "time": "9:00 AM - 6:00 PM",
-      "image": "/src/assets/EventBG.jpeg"
+      "image": "/EventBG.jpeg"
     },
     {
       "id": 12,
@@ -346,7 +346,7 @@
       "category": "Performing Arts",
       "date": "September 5, 2025",
       "time": "7:00 PM - 9:00 PM",
-      "image": "/src/assets/EventBG.jpeg"
+      "image": "/EventBG.jpeg"
     }
   ]
 }

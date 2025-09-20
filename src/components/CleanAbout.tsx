@@ -119,7 +119,7 @@ export function CleanAbout() {
             <div className="relative">
               <div className="relative rounded-lg overflow-hidden">
                 <ImageWithFallback
-                  src="/src/assets/Associates.png"
+                  src="/Associates.png"
                   alt="Cultural Performance Art"
                   className="w-full h-[400px] object-cover"
                 />
