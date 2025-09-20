@@ -2,7 +2,6 @@ import React from "react";
 import { motion } from "motion/react";
 import { Calendar, MapPin, Users, Award } from "lucide-react";
 import { Button } from "./ui/button";
-import EventBG from "../assets/EventBG.jpeg";
 
 export function CleanHero() {
   return (
@@ -11,7 +10,7 @@ export function CleanHero() {
       <div 
         className="w-screen "
         style={{ 
-          backgroundImage: `url(${EventBG})`,
+          backgroundImage: `url('/EventBG.jpeg')`,
           backgroundSize: '100vw auto',
           backgroundRepeat: 'no-repeat',
           backgroundPosition: 'center top',
