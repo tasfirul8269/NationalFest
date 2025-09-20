@@ -296,7 +296,7 @@ export function SegmentSinglePage({ segment, onBack }: SegmentSinglePageProps) {
                   whileInView={{ opacity: 1, y: 0 }}
                   transition={{ duration: 0.6, delay: 0.3 }}
                   viewport={{ once: true }}
-                  className="bg-gradient-to-r from-primary/10 to-primary/5 border border-primary/20 rounded-lg p-6"
+                  className="bg-gradient-to-r from-primary/10 to-primary/5 border border-primary/20 rounded-lg p-6"np
                 >
                   <h3 className="text-lg font-semibold text-foreground mb-4">Quick Stats</h3>
                   
