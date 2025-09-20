@@ -1,3 +1,5 @@
+import React from "react";
+
 import { motion } from "motion/react";
 import { Building, Crown, Award, TrendingUp, ArrowRight } from "lucide-react";
 

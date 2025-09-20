@@ -1,3 +1,5 @@
+import React from "react";
+
 import { motion } from "motion/react";
 import { Calendar, MapPin, Users, Award } from "lucide-react";
 import { Button } from "./ui/button";

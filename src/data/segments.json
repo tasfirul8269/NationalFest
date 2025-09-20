@@ -1,0 +1,353 @@
+{
+  "segments": [
+    {
+      "id": 1,
+      "name": "Vocal Performance",
+      "slug": "vocal-performance",
+      "icon": "Mic",
+      "description": "Solo & group singing competitions featuring traditional and contemporary music",
+      "detailedDescription": "Showcase your vocal talents in our premier singing competition. Open to both solo performers and groups, this segment celebrates the rich musical heritage of Bangladesh while embracing modern genres. Participants will be judged on vocal technique, stage presence, song selection, and audience engagement.",
+      "participants": "120+",
+      "price": 100,
+      "duration": "2 hours",
+      "venue": "Main Auditorium",
+      "rules": [
+        "Maximum 4 minutes per performance",
+        "No backing tracks with vocals",
+        "Traditional and contemporary songs allowed",
+        "Judges' decision is final"
+      ],
+      "prizes": [
+        "1st Place: 10,000 BDT + Trophy",
+        "2nd Place: 7,000 BDT + Medal",
+        "3rd Place: 5,000 BDT + Medal"
+      ],
+      "requirements": "Bring your own instruments if needed",
+      "registrationDeadline": "August 25, 2025",
+      "category": "Performing Arts",
+      "date": "September 5, 2025",
+      "time": "2:00 PM - 4:00 PM",
+      "image": "/src/assets/EventBG.jpeg"
+    },
+    {
+      "id": 2,
+      "name": "Dance Performance",
+      "slug": "dance-performance",
+      "icon": "Users",
+      "description": "Traditional & contemporary dance showcasing cultural diversity",
+      "detailedDescription": "Express yourself through the universal language of dance. This segment welcomes both traditional Bangladeshi dance forms and contemporary styles. Groups and solo performers can participate, with special categories for classical, folk, and modern dance.",
+      "participants": "85+",
+      "price": 100,
+      "duration": "3 hours",
+      "venue": "Dance Studio",
+      "rules": [
+        "Maximum 5 minutes per performance",
+        "Costumes and props allowed",
+        "Music must be provided on USB",
+        "Group size: 2-12 members"
+      ],
+      "prizes": [
+        "1st Place: 12,000 BDT + Trophy",
+        "2nd Place: 8,000 BDT + Medal",
+        "3rd Place: 6,000 BDT + Medal"
+      ],
+      "requirements": "Bring your own music and costumes",
+      "registrationDeadline": "August 25, 2025",
+      "category": "Performing Arts",
+      "date": "September 5, 2025",
+      "time": "10:00 AM - 1:00 PM",
+      "image": "/src/assets/EventBG.jpeg"
+    },
+    {
+      "id": 3,
+      "name": "Instrumental Music",
+      "slug": "instrumental-music",
+      "icon": "Guitar",
+      "description": "Orchestra & solo instruments celebrating musical mastery",
+      "detailedDescription": "Demonstrate your instrumental prowess in this prestigious competition. Whether you play traditional Bangladeshi instruments or modern ones, this segment celebrates musical excellence and technical skill.",
+      "participants": "95+",
+      "price": 100,
+      "duration": "2.5 hours",
+      "venue": "Music Hall",
+      "rules": [
+        "Maximum 6 minutes per performance",
+        "Solo or ensemble performances allowed",
+        "Traditional and modern instruments welcome",
+        "Original compositions encouraged"
+      ],
+      "prizes": [
+        "1st Place: 15,000 BDT + Trophy",
+        "2nd Place: 10,000 BDT + Medal",
+        "3rd Place: 7,000 BDT + Medal"
+      ],
+      "requirements": "Bring your own instruments",
+      "registrationDeadline": "August 25, 2025",
+      "category": "Performing Arts",
+      "date": "September 5, 2025",
+      "time": "4:00 PM - 6:30 PM",
+      "image": "/src/assets/EventBG.jpeg"
+    },
+    {
+      "id": 4,
+      "name": "Drama Competition",
+      "slug": "drama-competition",
+      "icon": "Theater",
+      "description": "Stage plays & monologues bringing stories to life",
+      "detailedDescription": "Bring compelling stories to the stage in our drama competition. From powerful monologues to ensemble performances, this segment celebrates the art of storytelling and theatrical expression.",
+      "participants": "60+",
+      "price": 100,
+      "duration": "4 hours",
+      "venue": "Theater Hall",
+      "rules": [
+        "Maximum 15 minutes per performance",
+        "Scripts must be original or public domain",
+        "Props and costumes allowed",
+        "Maximum 8 actors per group"
+      ],
+      "prizes": [
+        "1st Place: 20,000 BDT + Trophy",
+        "2nd Place: 15,000 BDT + Medal",
+        "3rd Place: 10,000 BDT + Medal"
+      ],
+      "requirements": "Bring your own props and costumes",
+      "registrationDeadline": "August 25, 2025",
+      "category": "Performing Arts",
+      "date": "September 5, 2025",
+      "time": "7:00 PM - 11:00 PM",
+      "image": "/src/assets/EventBG.jpeg"
+    },
+    {
+      "id": 5,
+      "name": "Art Exhibition",
+      "slug": "art-exhibition",
+      "icon": "Palette",
+      "description": "Paintings, sculptures & crafts showcasing creative vision",
+      "detailedDescription": "Display your artistic creations in our comprehensive art exhibition. This segment includes paintings, sculptures, digital art, and traditional crafts, celebrating all forms of visual creativity.",
+      "participants": "75+",
+      "price": 100,
+      "duration": "All day",
+      "venue": "Art Gallery",
+      "rules": [
+        "Maximum 3 pieces per participant",
+        "All mediums accepted",
+        "Pieces must be original work",
+        "Size limit: 2m x 2m"
+      ],
+      "prizes": [
+        "1st Place: 8,000 BDT + Trophy",
+        "2nd Place: 5,000 BDT + Medal",
+        "3rd Place: 3,000 BDT + Medal"
+      ],
+      "requirements": "Bring your own display materials",
+      "registrationDeadline": "August 25, 2025",
+      "category": "Visual Arts",
+      "date": "September 5, 2025",
+      "time": "9:00 AM - 6:00 PM",
+      "image": "/src/assets/EventBG.jpeg"
+    },
+    {
+      "id": 6,
+      "name": "Photography",
+      "slug": "photography",
+      "icon": "Camera",
+      "description": "Digital & analog photography capturing moments",
+      "detailedDescription": "Capture the essence of culture and creativity through your lens. This segment welcomes both digital and analog photography, with categories for different themes and techniques.",
+      "participants": "110+",
+      "price": 100,
+      "duration": "All day",
+      "venue": "Photo Gallery",
+      "rules": [
+        "Maximum 5 photos per participant",
+        "Digital and film photography accepted",
+        "Photos must be taken within last 6 months",
+        "No heavy editing allowed"
+      ],
+      "prizes": [
+        "1st Place: 6,000 BDT + Trophy",
+        "2nd Place: 4,000 BDT + Medal",
+        "3rd Place: 2,500 BDT + Medal"
+      ],
+      "requirements": "Submit photos in digital format",
+      "registrationDeadline": "August 25, 2025",
+      "category": "Visual Arts",
+      "date": "September 5, 2025",
+      "time": "9:00 AM - 6:00 PM",
+      "image": "/src/assets/EventBG.jpeg"
+    },
+    {
+      "id": 7,
+      "name": "Creative Writing",
+      "slug": "creative-writing",
+      "icon": "Pen",
+      "description": "Poetry, stories & essays expressing literary talent",
+      "detailedDescription": "Share your literary voice in our creative writing competition. This segment includes poetry, short stories, essays, and other creative forms, celebrating the power of words and imagination.",
+      "participants": "90+",
+      "price": 100,
+      "duration": "2 hours",
+      "venue": "Library",
+      "rules": [
+        "Maximum 1000 words per piece",
+        "All genres accepted",
+        "Must be original work",
+        "Submit in both Bangla and English"
+      ],
+      "prizes": [
+        "1st Place: 5,000 BDT + Trophy",
+        "2nd Place: 3,000 BDT + Medal",
+        "3rd Place: 2,000 BDT + Medal"
+      ],
+      "requirements": "Submit digital copies",
+      "registrationDeadline": "August 25, 2025",
+      "category": "Literary Arts",
+      "date": "September 5, 2025",
+      "time": "11:00 AM - 1:00 PM",
+      "image": "/src/assets/EventBG.jpeg"
+    },
+    {
+      "id": 8,
+      "name": "Quiz Competition",
+      "slug": "quiz-competition",
+      "icon": "Lightbulb",
+      "description": "General knowledge & culture testing intellect",
+      "detailedDescription": "Test your knowledge across various domains in our quiz competition. Questions cover general knowledge, current affairs, history, science, and culture, making it a true test of intellect.",
+      "participants": "150+",
+      "price": 100,
+      "duration": "1.5 hours",
+      "venue": "Conference Hall",
+      "rules": [
+        "Individual and team participation",
+        "Multiple choice questions",
+        "No external help allowed",
+        "Tie-breaker rounds included"
+      ],
+      "prizes": [
+        "1st Place: 7,000 BDT + Trophy",
+        "2nd Place: 5,000 BDT + Medal",
+        "3rd Place: 3,000 BDT + Medal"
+      ],
+      "requirements": "Bring writing materials",
+      "registrationDeadline": "August 25, 2025",
+      "category": "Academic",
+      "date": "September 5, 2025",
+      "time": "2:00 PM - 3:30 PM",
+      "image": "/src/assets/EventBG.jpeg"
+    },
+    {
+      "id": 9,
+      "name": "Debate Tournament",
+      "slug": "debate-tournament",
+      "icon": "Mic",
+      "description": "English & Bangla debates fostering critical thinking",
+      "detailedDescription": "Engage in intellectual discourse in our debate tournament. Both English and Bangla debates are welcome, covering topics from social issues to current affairs, fostering critical thinking and public speaking skills.",
+      "participants": "80+",
+      "price": 100,
+      "duration": "3 hours",
+      "venue": "Debate Hall",
+      "rules": [
+        "Maximum 3 speakers per team",
+        "5 minutes per speech",
+        "Both English and Bangla allowed",
+        "Topics announced 30 minutes before"
+      ],
+      "prizes": [
+        "1st Place: 12,000 BDT + Trophy",
+        "2nd Place: 8,000 BDT + Medal",
+        "3rd Place: 5,000 BDT + Medal"
+      ],
+      "requirements": "Prepare for various topics",
+      "registrationDeadline": "August 25, 2025",
+      "category": "Academic",
+      "date": "September 5, 2025",
+      "time": "4:00 PM - 7:00 PM",
+      "image": "/src/assets/EventBG.jpeg"
+    },
+    {
+      "id": 10,
+      "name": "Gaming Championship",
+      "slug": "gaming-championship",
+      "icon": "Gamepad2",
+      "description": "E-sports & board games celebrating digital culture",
+      "detailedDescription": "Compete in our gaming championship featuring popular e-sports titles and traditional board games. This segment celebrates digital culture and strategic thinking across various gaming platforms.",
+      "participants": "200+",
+      "price": 100,
+      "duration": "6 hours",
+      "venue": "Gaming Zone",
+      "rules": [
+        "Multiple game categories",
+        "Single and team competitions",
+        "Fair play policies apply",
+        "Equipment provided"
+      ],
+      "prizes": [
+        "1st Place: 25,000 BDT + Trophy",
+        "2nd Place: 15,000 BDT + Medal",
+        "3rd Place: 10,000 BDT + Medal"
+      ],
+      "requirements": "Basic gaming knowledge",
+      "registrationDeadline": "August 25, 2025",
+      "category": "Digital Arts",
+      "date": "September 5, 2025",
+      "time": "9:00 AM - 3:00 PM",
+      "image": "/src/assets/EventBG.jpeg"
+    },
+    {
+      "id": 11,
+      "name": "Film Making",
+      "slug": "film-making",
+      "icon": "Tv",
+      "description": "Short films & documentaries telling compelling stories",
+      "detailedDescription": "Create compelling visual narratives in our film making competition. Submit short films, documentaries, or experimental videos that showcase your storytelling and technical skills.",
+      "participants": "45+",
+      "price": 100,
+      "duration": "All day",
+      "venue": "Screening Room",
+      "rules": [
+        "Maximum 10 minutes per film",
+        "All genres accepted",
+        "Must be original content",
+        "Submit in digital format"
+      ],
+      "prizes": [
+        "1st Place: 30,000 BDT + Trophy",
+        "2nd Place: 20,000 BDT + Medal",
+        "3rd Place: 15,000 BDT + Medal"
+      ],
+      "requirements": "Submit digital files",
+      "registrationDeadline": "August 25, 2025",
+      "category": "Digital Arts",
+      "date": "September 5, 2025",
+      "time": "9:00 AM - 6:00 PM",
+      "image": "/src/assets/EventBG.jpeg"
+    },
+    {
+      "id": 12,
+      "name": "Fashion Show",
+      "slug": "fashion-show",
+      "icon": "Trophy",
+      "description": "Traditional & contemporary wear celebrating style",
+      "detailedDescription": "Showcase your fashion sense and modeling skills in our fashion show. This segment celebrates both traditional Bangladeshi attire and contemporary fashion, promoting cultural heritage and modern style.",
+      "participants": "70+",
+      "price": 100,
+      "duration": "2 hours",
+      "venue": "Fashion Runway",
+      "rules": [
+        "Individual and group participation",
+        "Traditional and modern wear allowed",
+        "Music provided by organizers",
+        "Maximum 2 minutes per walk"
+      ],
+      "prizes": [
+        "1st Place: 15,000 BDT + Trophy",
+        "2nd Place: 10,000 BDT + Medal",
+        "3rd Place: 7,000 BDT + Medal"
+      ],
+      "requirements": "Bring your own outfits",
+      "registrationDeadline": "August 25, 2025",
+      "category": "Performing Arts",
+      "date": "September 5, 2025",
+      "time": "7:00 PM - 9:00 PM",
+      "image": "/src/assets/EventBG.jpeg"
+    }
+  ]
+}
+

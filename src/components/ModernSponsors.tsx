@@ -1,3 +1,4 @@
+import React from "react";
 import { motion } from "motion/react";
 import { Building, Crown, Award, Handshake, Star, TrendingUp } from "lucide-react";
 

@@ -1,3 +1,4 @@
+import React from "react";
 import { useState, useEffect } from "react";
 import { motion } from "motion/react";
 import { Menu, X, Calendar, ExternalLink } from "lucide-react";

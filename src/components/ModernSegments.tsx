@@ -1,3 +1,4 @@
+import React from "react";
 import { motion } from "motion/react";
 import { Music, Mic, Camera, Palette, Users, Trophy, Pen, Theater, Guitar, Lightbulb, Gamepad2, Tv } from "lucide-react";
 

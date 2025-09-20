@@ -5,11 +5,18 @@ import { Button } from "./ui/button";
 
 export function CleanHero() {
   return (
-    <section id="home" className="relative min-h-screen bg-background overflow-hidden">
+    <section id="home" className="relative bg-background overflow-hidden">
       {/* Background Image */}
       <div 
-        className="absolute inset-0 bg-cover bg-center bg-no-repeat"
-        style={{ backgroundImage: `url('/src/assets/EventBG.jpeg')` }}
+        className="w-screen "
+        style={{ 
+          backgroundImage: `url('/src/assets/EventBG.jpeg')`,
+          backgroundSize: '100vw auto',
+          backgroundRepeat: 'no-repeat',
+          backgroundPosition: 'center top',
+          height: '100vh',
+          minHeight: '100vh'
+        }}
       ></div>
       
       {/* Overlay for better text readability */}
@@ -18,11 +25,10 @@ export function CleanHero() {
       {/* Subtle Background Pattern */}
       <div className="absolute inset-0 bg-[linear-gradient(rgba(255,255,255,0.03)_1px,transparent_1px),linear-gradient(90deg,rgba(255,255,255,0.03)_1px,transparent_1px)] bg-[size:4rem_4rem] opacity-20"></div>
 
-      <div className="relative z-10 container mx-auto px-6 pt-32 pb-20">
-        <div className="flex items-end justify-center min-h-[80vh]">
+      <div className="absolute inset-0 z-10 container mx-auto px-6 flex items-end justify-center pb-[100px]">
           {/* Main Content */}
           <motion.div 
-            className="space-y-8 text-center max-w-4xl"
+            className="space-y-6 text-center max-w-4xl mb-8 pb-8"
             initial={{ opacity: 0, y: 50 }}
             animate={{ opacity: 1, y: 0 }}
             transition={{ duration: 0.8, ease: "easeOut" }}
@@ -60,13 +66,12 @@ export function CleanHero() {
               initial={{ opacity: 0 }}
               animate={{ opacity: 1 }}
               transition={{ delay: 1 }}
-              className="pt-8 border-t border-white/20"
+              className="pt-6 border-t border-white/20"
             >
               <div className="text-white/70 text-sm mb-1">Organized by</div>
               <div className="text-white font-medium">Dhaka College Cultural Club</div>
             </motion.div>
           </motion.div>
-        </div>
       </div>
     </section>
   );

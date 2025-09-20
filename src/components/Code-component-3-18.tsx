@@ -1,3 +1,5 @@
+import React from "react";
+
 import { motion } from "motion/react";
 import { Award, Users, Globe, Target, Heart } from "lucide-react";
 import { ImageWithFallback } from './figma/ImageWithFallback';

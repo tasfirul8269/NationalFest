@@ -1,3 +1,4 @@
+import React from "react";
 import { Music, Mic, Camera, Palette, Trophy, Users } from "lucide-react";
 
 const segments = [

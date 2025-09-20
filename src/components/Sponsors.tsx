@@ -1,3 +1,5 @@
+
+import React from "react";
 export function Sponsors() {
   const sponsors = [
     { name: "Bangladesh Bank", category: "Title Sponsor", logo: "BB" },

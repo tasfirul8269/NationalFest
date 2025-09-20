@@ -1,3 +1,5 @@
+import React from "react";
+
 import { motion } from "motion/react";
 import { 
   Mail, 
@@ -246,7 +248,7 @@ export function CleanFooter() {
                 Register Now - It's Free!
               </Button>
             </motion.div>
-          </div>
+          </motion.div>
         </div>
       </motion.div>
     </footer>
